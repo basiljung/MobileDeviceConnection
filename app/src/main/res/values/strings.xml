@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Music Search App</string>
+    <string name="filter_type">Filter by</string>
+    <string name="button_text">Search</string>
+
+    <string-array name="filter_array">
+        <item>Track</item>
+        <item>Artist</item>
+        <item>Album</item>
+        <item>Label</item>
+    </string-array>
+</resources>
